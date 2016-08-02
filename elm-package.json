@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "This is a quick physics project to learn/practice Elm.",
-    "repository": "https://github.com/user/project.git",
+    "repository": "https://github.com/cruhl/elm-balls.git",
     "license": "BSD3",
     "source-directories": [
         "."
